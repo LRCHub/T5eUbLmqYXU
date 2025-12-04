@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ネトゲ廃人シュプレヒコール",
+  "base_artist": "DELUTAYA",
+  "createdAt": "2025-12-04T07:27:48.569319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール(カバー) feat.のど飴",
+      "artist": "さつき が てんこもり",
+      "has_synced": false,
+      "path": "select/01_ネトゲ廃人シュプレヒコール(カバー)_feat.のど飴_さつき_が_てんこもり.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/02_ネトゲ廃人シュプレヒコール_96猫.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール(カバー)",
+      "artist": "kradness",
+      "has_synced": true,
+      "path": "select/03_ネトゲ廃人シュプレヒコール(カバー)_kradness.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "kradness",
+      "has_synced": true,
+      "path": "select/04_ネトゲ廃人シュプレヒコール_kradness.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "さつき が てんこもり",
+      "has_synced": false,
+      "path": "select/05_ネトゲ廃人シュプレヒコール_さつき_が_てんこもり.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール (feat. 鳳えむ&草薙寧々&初音ミク)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/06_ネトゲ廃人シュプレヒコール_(feat._鳳えむ&草薙寧々&初音ミク)_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール feat.初音ミク",
+      "artist": "Satsuki ga Tenkomori",
+      "has_synced": false,
+      "path": "select/07_ネトゲ廃人シュプレヒコール_feat.初音ミク_Satsuki_ga_Tenkomori.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": true,
+      "path": "select/08_ネトゲ廃人シュプレヒコール_ワンダーランズ×ショウタイム.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "Various Artists feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/09_ネトゲ廃人シュプレヒコール_Various_Artists_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール - Online Game Addicts Sprechchor (feat. Hatsune miku)",
+      "artist": "Satsuki ga Tenkomori",
+      "has_synced": false,
+      "path": "select/10_ネトゲ廃人シュプレヒコール_-_Online_Game_Addicts_Sprechchor_(feat._Hatsune_miku)_Satsuki_ga_Tenkomori.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "ワンダーランズ×ショウタイム feat. 鳳えむ&草薙寧々&初音ミク",
+      "has_synced": true,
+      "path": "select/11_ネトゲ廃人シュプレヒコール_ワンダーランズ×ショウタイム_feat._鳳えむ&草薙寧々&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "Satsuki ga Tenkomori",
+      "has_synced": false,
+      "path": "select/12_ネトゲ廃人シュプレヒコール_Satsuki_ga_Tenkomori.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "さつき が てんこもり feat.初音ミク",
+      "has_synced": false,
+      "path": "select/13_ネトゲ廃人シュプレヒコール_さつき_が_てんこもり_feat.初音ミク.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "さつき が てんこもり feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/14_ネトゲ廃人シュプレヒコール_さつき_が_てんこもり_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "ヲタみん",
+      "has_synced": false,
+      "path": "select/15_ネトゲ廃人シュプレヒコール_ヲタみん.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "さつき が てんこもり/初音ミク",
+      "has_synced": false,
+      "path": "select/16_ネトゲ廃人シュプレヒコール_さつき_が_てんこもり_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "artist": "DELUTAYA",
+      "has_synced": false,
+      "path": "select/pl_01_ネトゲ廃人シュプレヒコール_DELUTAYA.txt"
+    }
+  ]
+}
